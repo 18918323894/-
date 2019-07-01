@@ -1,16 +1,14 @@
-<<<<<<< HEAD
 ## SAK软件开发
 
 [Android画面修改](https://18918323894.github.io/SAK/android)
+
 [设定画面](https://18918323894.github.io/SAK/设定画面)
+
 [数据采集](https://18918323894.github.io/SAK/设定画面)
-=======
+
 ## Welcome to GitHub Page
->>>>>>> origin
 
-You can use the [editor on GitHub](https://18918323894.github.io/SAK/android) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
