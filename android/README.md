@@ -4,9 +4,7 @@
 
 [画面2](https://18918323894.github.io/SAK/android/画面2)
 
-You can use the [链接2](https://github.com/18918323894/-/edit/master/READM.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[返回](https://18918323894.github.io/SAK)
 
 ### Markdown
 
