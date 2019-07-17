@@ -8,6 +8,8 @@
 
 [客户需求](https://18918323894.github.io/SAK/客户需求)
 
+[功能表](https://18918323894.github.io/SAK/功能表)
+
 ## Welcome to GitHub Page
 
 
